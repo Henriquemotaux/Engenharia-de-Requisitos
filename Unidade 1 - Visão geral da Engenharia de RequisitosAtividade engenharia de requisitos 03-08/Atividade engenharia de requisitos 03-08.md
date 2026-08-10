@@ -1,10 +1,16 @@
 # Atividade Prática — Engenharia de Requisitos
 
 **Integrantes:** Henrique Mota Monteiro e João Pedro Pimentel
+
+
 **Em duplas, respondam às seguintes questões:**
+
 Quem utilizará o sistema?
+
 Cite 3 requisitos funcionais (o que o sistema deve fazer).
+
 Cite 2 requisitos não funcionais (como o sistema deve funcionar).
+
 Explique, em poucas palavras, por que é importante levantar os requisitos antes de desenvolver um software.
 Respostas: 
 
