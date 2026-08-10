@@ -11,7 +11,7 @@ Cite 3 requisitos funcionais (o que o sistema deve fazer).
 Cite 2 requisitos não funcionais (como o sistema deve funcionar).
 
 Explique, em poucas palavras, por que é importante levantar os requisitos antes de desenvolver um software.
-Respostas: 
+
 
 
 
