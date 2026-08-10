@@ -1,7 +1,7 @@
 # Atividade Prática — Engenharia de Requisitos
 
 **Integrantes:** Henrique Mota Monteiro e João Pedro Pimentel
-
+---
 
 **Em duplas, respondam às seguintes questões:**
 
